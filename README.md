@@ -18,3 +18,8 @@ The analysis is contained in the AF_Urbanski_Tasak_Profic.xlsx file, which consi
 📊 Performance indicators – Analysis of profitability, liquidity, and efficiency <br>
 📉 Sectoral comparison – Evaluation of financial ratios against industry benchmarks <br>
 📌 Conclusions & recommendations – Summary of financial health and strategic insights <br>
+
+## 👨‍💻 Authors
+- Kacper Urbański <br>
+- Tomasz Profic <br>
+- Bartosz Tasak 
