@@ -1,4 +1,4 @@
-# 📊 Financial Analysis Report
+# 📊 Financial Analysis 
 ## 📌 Project Overview
 This project presents a financial analysis based on key financial statements and performance indicators. The dataset includes balance sheets, income statements, and cash flow statements, along with sectoral comparisons and conclusions.
 
